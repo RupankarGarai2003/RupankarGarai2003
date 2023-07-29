@@ -1,4 +1,4 @@
-![logo](https://github.com/RupankarGarai2003/RupankarGarai2003/blob/main/Attack.gif)
+![logo](https://github.com/RupankarGarai2003/RupankarGarai2003/blob/main/Banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Rupankar Garai</h1>
 <h3 align="center">A passionate Coder from India</h3>
