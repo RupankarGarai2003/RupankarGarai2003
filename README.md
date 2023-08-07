@@ -1,7 +1,7 @@
 ![logo](https://github.com/RupankarGarai2003/RupankarGarai2003/blob/main/Banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Rupankar Garai</h1>
-<h3 align="center">A passionate Coder from India</h3>
+<h3 align="center">A passionate Learner from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
