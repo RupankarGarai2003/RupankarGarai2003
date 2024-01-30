@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rupankar Garai</h1>
 <h3 align="center">A passionate Learner from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avc" alt="avc" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avc" alt="avc" /></a> </p
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
