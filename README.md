@@ -5,9 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avc" alt="avc" /></a> </p
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupankargarai2003&label=Profile%20views&color=0e75b6&style=flat" alt="rupankargarai2003" /> </p>
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
